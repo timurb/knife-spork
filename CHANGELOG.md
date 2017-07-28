@@ -1,3 +1,9 @@
+## 1.6.4(custom local release by @timurb)
+
+Bugfixes:
+    - Uploading cookbooks with no deps to Chef server (https://github.com/jonlives/knife-spork/issues/209)
+    - Cookstyle support (https://github.com/jonlives/knife-spork/pull/211)
+
 ## 1.6.3(12th December, 2016)
 
 Features:
